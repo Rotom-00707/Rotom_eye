@@ -1,4 +1,4 @@
-# RotomEyes V2
+# RotomEyes
 
 A fully procedural, hardware-accelerated, non-blocking Arduino Eye Engine built for the ESP32 and SSD1306 OLED displays. Built with completely modular object-oriented classes.
 
